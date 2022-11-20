@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Branch",
+        "repositoryURL": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
+        "state": {
+          "branch": null,
+          "revision": "234290086ebd7193838313b8b0f90e3e14428c48",
+          "version": "1.40.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
